@@ -1,126 +1,83 @@
 # Hi, I'm Ahilya Sarnaik 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&height=50&lines=Cybersecurity+Researcher;AI+Security+%7C+Network+Security;Threat+Detection+%7C+Anomaly+Detection;Federated+Learning+%7C+Privacy-Preserving+ML;Researching+%26+Building+Secure+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher;AI+Security+%7C+Network+Security;Federated+Learning+%7C+NIDS;Anomaly+Detection+%7C+Security+Research" alt="Typing introduction" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ahilyasavali12-prog">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/ahilyacyber">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/Ahi_Cyber">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://medium.com/@ahilya_Cyber">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://tryhackme.com/p/Clover.Code">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
   <a href="https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
   </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🔐 About Me
 
-I'm a **Cybersecurity Researcher** focused on the intersection of **Cybersecurity, Artificial Intelligence, Machine Learning, and Network Security**.
+I am a **Cybersecurity Researcher** interested in applying machine learning and distributed computing to practical security problems.
 
-My work combines practical security experimentation with research into intelligent and privacy-preserving security systems.
+My current research focuses on **privacy-preserving Network Intrusion Detection Systems (NIDS)** using **Federated Learning**, with particular interest in anomaly detection, client heterogeneity, model aggregation, and network security.
 
-### Areas of Interest
+I am especially interested in:
 
-* 🔐 Cybersecurity & Network Security
-* 🤖 AI Security & Machine Learning
-* 🛡️ Threat & Anomaly Detection
-* 🌐 Network Intrusion Detection Systems
-* 🔒 Federated Learning & Privacy-Preserving ML
-* 🧠 Security Analytics & Network Traffic Analysis
-* 🧪 Security Research & Experimentation
-* 🐍 Python-based Security Development
-* 🎯 TryHackMe & Hack The Box
-* ✍️ Cybersecurity Technical Writing
+* 🔐 Network Security & Intrusion Detection
+* 🤖 AI / Machine Learning for Cybersecurity
+* 🧠 Anomaly Detection
+* 🔄 Federated Learning
+* 🛡️ Privacy-Preserving Security
+* 📊 Security Analytics
+* 🔬 Cybersecurity Research & Experimentation
 
 ---
 
-## 🛡️ Research & Technical Focus
+## 🔬 Research & Technical Focus
 
-| Area                           | Focus                                                           |
-| ------------------------------ | --------------------------------------------------------------- |
-| 🔐 **Cybersecurity**           | Network Security, Threat Detection, NIDS, Security Analysis     |
-| 🤖 **AI Security**             | Machine Learning, Anomaly Detection, AI-assisted Security       |
-| 🧠 **Security Research**       | Federated Learning, Privacy-Preserving ML, Client Drift         |
-| 🌐 **Network Security**        | Network Traffic Analysis, Intrusion Detection, Threat Detection |
-| 🐍 **Security Development**    | Python, Bash, Linux-based Security Tools                        |
-| ☁️ **Infrastructure Security** | Docker, AWS Concepts, Linux, Cloud Security                     |
-
----
-
-## 🧰 Technical Skills
-
-### 🔐 Cybersecurity
-
-<p>
-  <img src="https://img.shields.io/badge/Network%20Security-1F6FEB?style=flat-square" alt="Network Security">
-  <img src="https://img.shields.io/badge/NIDS-1F6FEB?style=flat-square" alt="NIDS">
-  <img src="https://img.shields.io/badge/Threat%20Detection-1F6FEB?style=flat-square" alt="Threat Detection">
-  <img src="https://img.shields.io/badge/Anomaly%20Detection-1F6FEB?style=flat-square" alt="Anomaly Detection">
-  <img src="https://img.shields.io/badge/Security%20Analysis-1F6FEB?style=flat-square" alt="Security Analysis">
-  <img src="https://img.shields.io/badge/Incident%20Response-1F6FEB?style=flat-square" alt="Incident Response">
-</p>
-
-### 🤖 AI & Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Federated%20Learning-6F42C1?style=flat-square" alt="Federated Learning">
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</p>
+| Area                   | Focus                                                  |
+| ---------------------- | ------------------------------------------------------ |
+| **Federated Learning** | Privacy-preserving collaborative model training        |
+| **Network Security**   | Network Intrusion Detection Systems                    |
+| **Anomaly Detection**  | Autoencoder-based detection of abnormal traffic        |
+| **AI Security**        | Machine learning applications in cybersecurity         |
+| **Model Aggregation**  | Adaptive aggregation under statistical heterogeneity   |
+| **Security Datasets**  | NSL-KDD and UNSW-NB15                                  |
+| **Evaluation**         | AUC-ROC, Macro F1, Detection Rate, FAR and convergence |
 
 ---
 
-## 🔬 Featured Research
+## 🧠 Current Research
 
-### Federated Learning for Network Intrusion Detection
+### Privacy-Preserving Federated NIDS
 
-My current research explores **privacy-preserving Network Intrusion Detection Systems using Federated Learning**.
+My research investigates whether **Federated Learning** can improve privacy in collaborative network intrusion detection without requiring organisations to centralise raw network traffic.
 
-The work investigates distributed anomaly detection across multiple clients without centrally collecting raw network traffic.
+The research uses locally trained **autoencoder anomaly detectors**, where clients train on their own network data and share model updates rather than raw traffic.
 
-### Research Focus
+### Proposed Adaptive Aggregation
 
-* 🌐 Federated Learning for NIDS
-* 🧠 Autoencoder-based Anomaly Detection
-* 🔒 Privacy-Preserving Security Analytics
-* 📉 Statistical Heterogeneity & Client Drift
-* ⚙️ Adaptive Federated Aggregation
-* 📊 Network Threat Detection
-* 🧪 Experimental Evaluation of Federated Learning Strategies
+The proposed approach uses **cosine similarity** to measure the geometric alignment between a client's model update and the current global model.
 
-### Datasets
+Clients whose updates fall below a similarity threshold **τ** are excluded from aggregation, while accepted updates receive weights proportional to their similarity.
 
-* **NSL-KDD**
-* **UNSW-NB15**
+The approach is designed to address **client drift and statistical heterogeneity** while avoiding the need for auxiliary labelled data or differential-privacy noise.
 
-### Federated Learning Strategies
+### Experimental Evaluation
+
+The current evaluation compares:
 
 * **FedAvg**
 * **FedProx**
@@ -128,61 +85,116 @@ The work investigates distributed anomaly detection across multiple clients with
 * **Adaptive Aggregation**
 * **PerFedHypID**
 
-### Adaptive Aggregation
+Across:
 
-A key part of the research is a **cosine-similarity gated adaptive aggregation strategy** designed to reduce the influence of client updates that diverge significantly from the current global model under non-IID network traffic distributions.
+* IID data
+* Non-IID α = 0.5
+* Non-IID α = 0.1
 
-The approach evaluates the geometric alignment between client updates and the global model before determining their contribution to aggregation.
+Using:
+
+* **NSL-KDD**
+* **UNSW-NB15**
+
+Evaluation metrics include:
+
+* AUC-ROC
+* Macro F1
+* Detection Rate (DR)
+* False Alarm Rate (FAR)
+* Convergence rounds
+* Welch's t-test
+* Cohen's d
 
 ---
 
-## 🎯 Hands-On Cybersecurity
+## 🛠️ Technical Skills
 
-<p align="center">
-  <a href="https://tryhackme.com/p/Clover.Code">
-    <img src="https://img.shields.io/badge/TryHackMe-Clover.Code-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
-  </a>
-  <a href="https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box">
-  </a>
+### Cybersecurity
+
+<p>
+  <img src="https://img.shields.io/badge/Network%20Security-0D1117?style=for-the-badge&logo=wireshark&logoColor=white" alt="Network Security" />
+  <img src="https://img.shields.io/badge/Threat%20Detection-0D1117?style=for-the-badge&logo=virustotal&logoColor=white" alt="Threat Detection" />
+  <img src="https://img.shields.io/badge/Incident%20Response-0D1117?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="Incident Response" />
+  <img src="https://img.shields.io/badge/Digital%20Forensics-0D1117?style=for-the-badge&logo=bookstack&logoColor=white" alt="Digital Forensics" />
+  <img src="https://img.shields.io/badge/SIEM-0D1117?style=for-the-badge&logo=splunk&logoColor=white" alt="SIEM" />
 </p>
 
-Practical areas include:
+### AI / Machine Learning
 
-* Network Security
-* Linux
-* Web Security
-* Enumeration
-* Privilege Escalation
-* Threat Analysis
-* Security Operations
-* Network Analysis
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+### Development & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+</p>
 
 ---
 
-## 💻 Security Research Environment
+## 🧪 Hands-On Cybersecurity
+
+I regularly work with practical cybersecurity concepts including:
+
+* Network traffic analysis
+* Wireshark packet analysis
+* TCP/IP and network protocols
+* ARP poisoning and MITM analysis
+* Vulnerability assessment
+* SIEM and security monitoring
+* Incident response
+* Digital forensics
+* Threat intelligence
+* Linux security environments
+* Cybersecurity labs and CTF platforms
+
+---
+
+## 💻 Research Environment
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                  SECURITY RESEARCHER                         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  Focus       : AI Security                                   │
-│                Network Security                              │
-│                Threat Detection                              │
-│                Anomaly Detection                             │
-│                Federated Learning                            │
-│                Privacy-Preserving ML                         │
-│                                                              │
-│  Languages   : Python | Bash                                 │
-│  Platforms   : Linux | Kali Linux | Docker                   │
-│  Security    : NIDS | Network Analysis | Threat Detection    │                                                              │
-│  Currently   : Researching                                   │
-│                Building                                      │
-│                Learning                                      │
-│                Experimenting                                 │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                 CYBERSECURITY RESEARCH LAB                  │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Network Traffic                                            │
+│       │                                                     │
+│       ▼                                                     │
+│  ┌───────────────┐                                          │
+│  │ Data Processing│                                         │
+│  └───────┬───────┘                                          │
+│          │                                                  │
+│          ▼                                                  │
+│  ┌───────────────────┐                                      │
+│  │ Local Autoencoder │                                      │
+│  │ Anomaly Detector  │                                      │
+│  └─────────┬─────────┘                                      │
+│            │                                                │
+│            ▼                                                │
+│     Federated Learning                                      │                                                           │
+│            ▼                                                │
+│  ┌─────────────────────┐                                    │
+│  │ Adaptive Aggregation │                                   │
+│  │ Cosine Similarity    │                                   │
+│  └──────────┬──────────┘                                    │
+│             │                                               │
+│             ▼                                               │
+│       Global Model                                          │
+│             │                                               │
+│             ▼                                               │
+│     NIDS Evaluation                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -191,22 +203,22 @@ Practical areas include:
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ahilyasavali12-prog&show_icons=true&theme=github_dark&hide_border=true"
-    alt="GitHub Statistics"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahilyasavali12-prog&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahilyasavali12-prog&theme=github_dark"
+    alt="GitHub Profile Summary"
+    width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=ahilyasavali12-prog&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-    width="60%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahilyasavali12-prog&theme=github_dark"
+    alt="Repositories per Language"
+    width="48%"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahilyasavali12-prog&theme=github_dark"
+    alt="Most Commit Language"
+    width="48%"
   />
 </p>
 
@@ -226,22 +238,11 @@ Practical areas include:
 
 ## ✍️ Cybersecurity Writing
 
-I write and share technical content around:
+I write about cybersecurity, security research, networking, and practical security concepts.
 
-* Cybersecurity
-* Network Security
-* AI Security
-* Security Tools
-* Threat Detection
-* Privacy
-* Practical Security Concepts
-
-<p align="center">
+<p>
   <a href="https://medium.com/@ahilya_Cyber">
-    <img
-      src="https://img.shields.io/badge/Read%20My%20Articles-Medium-000000?style=for-the-badge&logo=medium&logoColor=white"
-      alt="Medium Articles"
-    />
+    <img src="https://img.shields.io/badge/Medium-Cybersecurity%20Writing-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Cybersecurity Writing" />
   </a>
 </p>
 
@@ -251,32 +252,34 @@ I write and share technical content around:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahilyacyber">
-    <img src="https://img.shields.io/badge/LinkedIn-Ahilya%20Sarnaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Ahilya%20Sarnaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ahilyasavali12-prog">
+    <img src="https://img.shields.io/badge/GitHub-ahilyasavali12--prog-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://x.com/Ahi_Cyber">
-    <img src="https://img.shields.io/badge/X-Ahi__Cyber-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+    <img src="https://img.shields.io/badge/X-@Ahi__Cyber-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/Clover.Code">
+    <img src="https://img.shields.io/badge/TryHackMe-Clover.Code-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
   </a>
   <a href="https://medium.com/@ahilya_Cyber">
-    <img src="https://img.shields.io/badge/Medium-Ahilya__Cyber-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-  </a>
-  <a href="https://www.reddit.com/user/Dramatic_cyber_917/">
-    <img src="https://img.shields.io/badge/Reddit-Dramatic__cyber__917-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+    <img src="https://img.shields.io/badge/Medium-@ahilya__Cyber-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=ahilyasavali12-prog&style=for-the-badge"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=ahilyasavali12-prog&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <b>Cybersecurity • AI Security • Network Security • Research</b>
-</p>
-
-<p align="center">
-  Researching intelligent security systems and building practical cybersecurity solutions.
+  <i>Cybersecurity Research • AI Security • Network Defense • Privacy-Preserving ML</i>
 </p>
