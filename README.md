@@ -1,245 +1,173 @@
 <div align="center">
 
-# Hi there, I'm Ahilya Sarnaik 👋
+# Hi, I'm Ahilya Sarnaik 👋
 
-### 🔐 Cybersecurity Developer | AI Security | Security Research
+### Cybersecurity Developer | AI Security | Security Research
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ahilyasavali12-prog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahilyacyber)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/Ahi_Cyber)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@ahilya_Cyber)
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Cybersecurity-red?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Clover.Code)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge\&logo=hackthebox\&logoColor=9FEF00)](https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34)
+<p>
+  <a href="https://github.com/ahilyasavali12-prog">GitHub</a> •
+  <a href="https://www.linkedin.com/in/ahilyacyber">LinkedIn</a> •
+  <a href="https://x.com/Ahi_Cyber">X</a> •
+  <a href="https://medium.com/@ahilya_Cyber">Medium</a> •
+  <a href="https://tryhackme.com/p/Clover.Code">TryHackMe</a> •
+  <a href="https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34">Hack The Box</a>
+</p>
 
 </div>
 
 ---
 
-## 🛡️ About Me
+## 👩‍💻 About Me
 
-I'm a **Cybersecurity Developer and Security Researcher** interested in building practical security solutions and exploring emerging challenges across **Cybersecurity, AI Security, Network Security, Threat Detection, and Privacy-Preserving Technologies**.
+I'm a **Cybersecurity Developer and Security Researcher** based in Ireland, focused on building practical security solutions and exploring the intersection of **Cybersecurity, Artificial Intelligence, Machine Learning, and Network Security**.
 
-* 📍 Based in **Ireland**
-* 🔐 Focused on **Cybersecurity, AI Security & Network Security**
-* 🤖 Exploring **Machine Learning for Threat & Anomaly Detection**
-* 🧠 Interested in **AI Security, Adversarial Machine Learning & Secure AI**
-* 🌐 Working with **Network Security & Intrusion Detection Systems**
-* 🔬 Exploring **Federated Learning and Privacy-Preserving Security**
-* 🐍 Building security tools and research projects with **Python**
-* 🧪 Practising hands-on cybersecurity through **TryHackMe & Hack The Box**
-* ✍️ Writing about **Cybersecurity, AI, and Technology**
-* 🤝 Open to collaboration on **Cybersecurity & Security Research projects**
+My interests include **AI security, network intrusion detection, anomaly detection, privacy-preserving machine learning, threat detection, and defensive security**.
 
----
-
-## 🔎 Areas of Interest
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Cybersecurity-0F172A?style=for-the-badge&logo=hackthebox&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Security-4B0082?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Network%20Security-1E40AF?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Threat%20Detection-991B1B?style=for-the-badge&logo=virustotal&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Privacy%20Preserving%20ML-166534?style=for-the-badge&logo=proton&logoColor=white" />
-
-</p>
+* 🔐 Cybersecurity & Network Security
+* 🤖 AI Security & Machine Learning
+* 🧠 Threat & Anomaly Detection
+* 🔬 Federated Learning & Privacy-Preserving ML
+* 🐍 Python Security Development
+* 🌐 Network Analysis & Intrusion Detection
+* 🧪 Hands-on Security Labs with TryHackMe & Hack The Box
+* ✍️ Cybersecurity & Technology Writing
 
 ---
 
-## 🛠️ Security & Development Stack
+## 🛠️ Technical Skills
 
-### Programming & Development
+### Security
 
-<p align="center">
+`Network Security` `NIDS` `Threat Detection` `Anomaly Detection` `Incident Response` `Security Analysis`
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+### AI / Machine Learning
 
-</p>
+`Python` `Scikit-learn` `PyTorch` `Machine Learning` `Anomaly Detection` `Federated Learning`
 
-### Security & Networking
+### Security Tools & Platforms
 
-<p align="center">
+`Linux` `Kali Linux` `Wireshark` `Docker` `Git` `GitHub` `TryHackMe` `Hack The Box`
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Network%20Security-1E40AF?style=for-the-badge&logo=cisco&logoColor=white" />
+### Development
 
-</p>
-
-### AI & Machine Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-</p>
+`Python` `Bash` `Git` `GitHub` `Docker`
 
 ---
 
-## 🔬 Current Focus
+## 🔬 Featured Research
+
+### 🔐 Federated Learning for Network Intrusion Detection
+
+Research project exploring **privacy-preserving network intrusion detection using Federated Learning**.
+
+The project investigates how distributed security models can learn from different network environments without requiring raw traffic to be centrally collected.
+
+**Research areas:**
+
+* Federated Learning
+* Network Intrusion Detection
+* Autoencoder-based Anomaly Detection
+* Non-IID / Statistical Heterogeneity
+* Adaptive Model Aggregation
+* Privacy-Preserving Security
+
+**Datasets:** NSL-KDD • UNSW-NB15
+
+**Compared approaches:** FedAvg • FedProx • FedAdam • Adaptive Aggregation • PerFedHypID
+
+---
+
+## 🚀 Security Projects
+
+### 🧠 AI & Phishing Detection
+
+Machine-learning based security projects focused on identifying potentially malicious and phishing-related content.
+
+**Focus:** Python • Machine Learning • Feature Engineering • Security Classification
+
+---
+
+### 🔎 Cybersecurity Reconnaissance & Enumeration
+
+Hands-on security tooling and labs covering reconnaissance, enumeration, network analysis and defensive security workflows.
+
+**Focus:** Python • Linux • Networking • Security Testing
+
+---
+
+### ☁️ Cloud & Infrastructure Security
+
+Practical exploration of cloud environments, containerisation and security-focused infrastructure.
+
+**Focus:** Docker • AWS Concepts • Linux • Cloud Security
+
+---
+
+## 🧪 Hands-On Security
+
+<div align="center">
+
+<a href="https://tryhackme.com/p/Clover.Code">
+<img src="https://img.shields.io/badge/TryHackMe-Clover.Code-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+</a>
+
+<a href="https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111927" alt="Hack The Box">
+</a>
+
+</div>
+
+---
+
+## ✍️ Writing & Knowledge Sharing
+
+I write about **cybersecurity, security tools, AI, networking, and technical concepts**.
+
+**Medium:**
+https://medium.com/@ahilya_Cyber
+
+---
+
+## 📚 Current Learning & Research
 
 ```text
-                         CYBERSECURITY
-                              │
-          ┌───────────────────┼───────────────────┐
-          │                   │                   │
-          ▼                   ▼                   ▼
-   Network Security      AI Security       Privacy & ML
-          │                   │                   │
-          ├─ NIDS             ├─ AI Security     ├─ Federated Learning
-          ├─ Traffic Analysis ├─ ML Security     ├─ Privacy-Preserving ML
-          ├─ Threat Detection ├─ Adversarial AI   └─ Distributed Detection
-          └─ Anomaly Detection└─ Secure AI
+Cybersecurity
+│
+├── Network Security
+│   ├── Intrusion Detection
+│   ├── Traffic Analysis
+│   └── Anomaly Detection
+│
+├── AI Security
+│   ├── ML Security
+│   ├── AI Threats
+│   └── Secure AI Systems
+│
+└── Privacy-Preserving Security
+    ├── Federated Learning
+    ├── Distributed Detection
+    └── Privacy-Preserving ML
 ```
 
 ---
 
-## 🚀 Projects & Research
+## 🌐 Connect With Me
 
-### 🔐 Federated Learning for Network Intrusion Detection
-
-Researching privacy-preserving **Network Intrusion Detection Systems (NIDS)** using Federated Learning.
-
-The work explores distributed anomaly detection where models can learn from multiple network environments without requiring raw traffic to be centrally collected.
-
-**Focus areas:**
-
-* Federated Learning
-* Network Anomaly Detection
-* Autoencoder-based Detection
-* Client/Data Heterogeneity
-* Privacy-Preserving Security
-* Adaptive Model Aggregation
+| Platform        | Link                                                                                   |
+| --------------- | -------------------------------------------------------------------------------------- |
+| 💻 GitHub       | [ahilyasavali12-prog](https://github.com/ahilyasavali12-prog)                          |
+| 💼 LinkedIn     | [ahilyacyber](https://www.linkedin.com/in/ahilyacyber)                                 |
+| 𝕏 X            | [@Ahi_Cyber](https://x.com/Ahi_Cyber)                                                  |
+| 🧪 TryHackMe    | [Clover.Code](https://tryhackme.com/p/Clover.Code)                                     |
+| 🟩 Hack The Box | [Profile](https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34) |
+| 📝 Medium       | [@ahilya_Cyber](https://medium.com/@ahilya_Cyber)                                      |
+| 👽 Reddit       | [Dramatic_cyber_917](https://www.reddit.com/user/Dramatic_cyber_917/)                  |
+| 🌐 Portfolio    | Coming Soon                                                                            |
 
 ---
-
-### 🧠 AI-Driven Phishing Detection
-
-Exploring machine-learning approaches for identifying and classifying potentially malicious or phishing-related content.
-
-**Focus areas:**
-
-* Machine Learning
-* Phishing Detection
-* Feature Engineering
-* Security Classification
-* Threat Detection
-
----
-
-### 🌐 Cybersecurity Tools & Labs
-
-Building and documenting practical cybersecurity projects involving:
-
-* 🔎 Network reconnaissance
-* 🌐 Web enumeration
-* 🐧 Linux security
-* 📡 Network traffic analysis
-* 🛡️ Defensive security
-* 🧪 Security labs
-* ☁️ Cloud security
-* 🔐 Incident response
-
----
-
-## 🧪 Hands-On Cybersecurity
 
 <div align="center">
 
-### TryHackMe
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Clover.Code-red?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Clover.Code)
-
-### Hack The Box
-
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge\&logo=hackthebox\&logoColor=111927)](https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34)
-
-</div>
-
----
-
-## ✍️ Cybersecurity Writing
-
-I write about **Cybersecurity, AI, security tools, technical concepts, and hands-on learning**.
-
-<div align="center">
-
-[![Medium](https://img.shields.io/badge/Read%20my%20articles-000000?style=for-the-badge\&logo=medium\&logoColor=white)](https://medium.com/@ahilya_Cyber)
-
-</div>
-
----
-
-## 📚 Research Interests
-
-* 🔐 Network Intrusion Detection Systems
-* 🤖 AI Security
-* 🧠 Machine Learning Security
-* 🎯 Threat & Anomaly Detection
-* 🔒 Privacy-Preserving Machine Learning
-* 🌐 Network Security
-* 🛡️ Defensive Cybersecurity
-* 🔬 Federated Learning
-* ⚔️ Adversarial Machine Learning
-* ☁️ Cloud Security
-* 📊 Security Analytics
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ahilyasavali12-prog&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahilyasavali12-prog&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-
-</div>
-
----
-
-## ⚡ GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahilyasavali12-prog&theme=radical" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🌐 Find Me Online
-
-| Platform        | Profile                                                                                    |
-| --------------- | ------------------------------------------------------------------------------------------ |
-| 💻 GitHub       | [ahilyasavali12-prog](https://github.com/ahilyasavali12-prog)                              |
-| 💼 LinkedIn     | [ahilyacyber](https://www.linkedin.com/in/ahilyacyber)                                     |
-| 🐦 X / Twitter  | [@Ahi_Cyber](https://x.com/Ahi_Cyber)                                                      |
-| 🧪 TryHackMe    | [Clover.Code](https://tryhackme.com/p/Clover.Code)                                         |
-| 🟩 Hack The Box | [HTB Profile](https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34) |
-| 📝 Medium       | [@ahilya_Cyber](https://medium.com/@ahilya_Cyber)                                          |
-| 👽 Reddit       | [Dramatic_cyber_917](https://www.reddit.com/user/Dramatic_cyber_917/)                      |
-| 🌐 Portfolio    | **Coming Soon**                                                                            |
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with **cybersecurity professionals, developers, researchers, and security enthusiasts** working on Cybersecurity, AI Security, Machine Learning, Network Security, and Privacy-Preserving Technologies.
-
-If you're working on an interesting security project, research idea, or technical collaboration, feel free to connect.
-
-<div align="center">
-
-### 🔐 Build Secure. Research Deeply. Defend Smarter.
+### 🔐 Cybersecurity • AI Security • Research • Development
 
 </div>
