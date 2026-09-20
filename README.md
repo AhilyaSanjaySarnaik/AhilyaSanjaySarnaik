@@ -8,6 +8,9 @@
   <a href="https://github.com/ahilyasavali12-prog">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://ahilyasavali12-prog.github.io/ahilyasarnaik.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00F7FF" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/ahilyacyber">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -251,6 +254,9 @@ I write about cybersecurity, security research, networking, and practical securi
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://ahilyasavali12-prog.github.io/ahilyasarnaik.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Ahilya%20Sarnaik-000000?style=for-the-badge&logo=firefox&logoColor=00F7FF" alt="Portfolio Website" />
+  </a>
   <a href="https://www.linkedin.com/in/ahilyacyber">
     <img src="https://img.shields.io/badge/LinkedIn-Ahilya%20Sarnaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
