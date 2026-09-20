@@ -3,7 +3,9 @@ name: Generate Contribution Snake
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -24,7 +26,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake
+      - name: Deploy Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           build_dir: dist
