@@ -289,3 +289,4 @@ I write about cybersecurity, security research, networking, and practical securi
 <p align="center">
   <i>Cybersecurity Research • AI Security • Network Defense • Privacy-Preserving ML</i>
 </p>
+
