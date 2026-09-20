@@ -84,7 +84,7 @@ My work combines practical security experimentation with research into intellige
   <img src="https://img.shields.io/badge/Federated%20Learning-6F42C1?style=flat-square" alt="Federated Learning">
 </p>
 
-### 🛠️ Security Tools & Platforms
+### 🛠️ Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
@@ -179,7 +179,7 @@ Practical areas include:
 │  Focus       : AI Security                                   │
 │                Network Security                              │
 │                Threat Detection                              │
-│                Anomaly Detection                              │
+│                Anomaly Detection                             │
 │                Federated Learning                            │
 │                Privacy-Preserving ML                         │
 │                                                              │
@@ -188,8 +188,7 @@ Practical areas include:
 │  Security    : NIDS | Network Analysis | Threat Detection    │
 │                                                              │
 │  Currently   : Researching                                   │
-│                Building                                     │
-│                Learning                                      │
+│                Building                                      │                Learning                                      │
 │                Experimenting                                 │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
@@ -202,21 +201,21 @@ Practical areas include:
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=ahilyasavali12-prog&show_icons=true&theme=github_dark&hide_border=true"
-    height="170"
     alt="GitHub Statistics"
+    width="48%"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahilyasavali12-prog&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
     alt="Top Languages"
+    width="48%"
   />
 </p>
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=ahilyasavali12-prog&theme=github-dark-blue&hide_border=true"
-    height="170"
     alt="GitHub Streak"
+    width="60%"
   />
 </p>
 
@@ -225,21 +224,11 @@ Practical areas include:
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/ahilyasavali12-prog/ahilyasavali12-prog/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/ahilyasavali12-prog/ahilyasavali12-prog/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/ahilyasavali12-prog/ahilyasavali12-prog/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/ahilyasavali12-prog/ahilyasavali12-prog/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
 ---
