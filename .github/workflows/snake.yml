@@ -11,13 +11,12 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
 
     permissions:
       contents: write
 
     steps:
-      - name: Generate contribution snake
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ahilyasavali12-prog
@@ -25,10 +24,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish contribution snake
+      - name: Publish Snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
           build_dir: dist
+          target_branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
