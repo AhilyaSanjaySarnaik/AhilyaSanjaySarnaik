@@ -18,11 +18,19 @@
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ahilya.savali12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ahilyasanjaysarnaik.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="Hack The Box" /></a>
 </p>
 
 <!--
-  Replace href="#" on the LinkedIn badge with your real LinkedIn URL.
-  Email + portfolio are already wired up from your public profile — change if needed.
+  Fill in the real links, then delete any badge you don't use (a badge that
+  links to "#" looks unfinished to a recruiter — better to remove than leave dead):
+    LinkedIn     -> your LinkedIn profile URL
+    Medium       -> https://medium.com/@your-handle
+    TryHackMe    -> https://tryhackme.com/p/your-username
+    Hack The Box -> https://app.hackthebox.com/profile/your-id
+  Email + portfolio are already wired from your public profile.
 -->
 
 ---
@@ -103,33 +111,41 @@ building detection and defense tooling on real systems.
 ### 🐍 Contribution graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhilyaSanjaySarnaik/AhilyaSanjaySarnaik/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhilyaSanjaySarnaik/AhilyaSanjaySarnaik/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AhilyaSanjaySarnaik/AhilyaSanjaySarnaik/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahilyasanjaysarnaik/ahilyasanjaysarnaik/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahilyasanjaysarnaik/ahilyasanjaysarnaik/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ahilyasanjaysarnaik/ahilyasanjaysarnaik/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <!--
-  Filenames and branch now match your snake.yml (outputs -> dist/, target_branch: output).
-  NOTE: your workflow generates the snake for github_user_name: ahilyasavali12-prog,
-  so this graph shows THAT account's contributions — not AhilyaSanjaySarnaik's.
-  The stats card below shows AhilyaSanjaySarnaik. See the note under About re: the
-  two accounts; ideally both should point at the same one.
-  The snake appears only after the workflow runs once (Actions tab -> Run workflow).
+  Now that you've consolidated to the single account "ahilyasanjaysarnaik":
+  open .github/workflows/snake.yml and set  github_user_name: ahilyasanjaysarnaik
+  (it was ahilyasavali12-prog). Then re-run it: Actions tab -> Run workflow.
+  The snake only appears after a successful run pushes the SVGs to the output branch.
+  URLs/filenames/branch above already match the workflow output.
 -->
 
 ---
 
-### 📊 GitHub stats
+### ✍️ Writing
 
-<p align="center">
-  <img height="165" src="https://readme-stats.itsvg.in/api?username=AhilyaSanjaySarnaik&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://readme-stats.itsvg.in/api/top-langs/?username=AhilyaSanjaySarnaik&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
+I write about application security, AI/LLM security, and the tools I build.
 
 <!--
-  Using the community mirror readme-stats.itsvg.in instead of the official
-  github-readme-stats.vercel.app, which is chronically rate-limited. This mirror
-  is a STOPGAP — it can also rate-limit or go offline. The durable fix is your
-  own Vercel instance (fork anuraghazra/github-readme-stats, deploy with a PAT).
-  If your main repos are on a different account, change username= in both URLs.
+  Add links to your real posts once published, e.g.:
+  - [Neutralizing XSS & SQLi at the input layer](https://medium.com/@your-handle/...)
+  - [Detecting prompt injection against LLMs](https://medium.com/@your-handle/...)
+
+  If you don't have posts yet, either write one short walkthrough of a project
+  above (great signal for security roles) or delete this whole section for now —
+  an empty "Writing" heading reads worse than no heading.
 -->
+
+- 📝 Latest posts on [Medium](#)  <!-- replace # with https://medium.com/@your-handle -->
+
+---
+
+### 🤝 Let's connect
+
+I'm open to **AI security and cybersecurity graduate roles**, internships, and
+collaboration on security tooling. Reach me via
+[email](mailto:ahilya.savali12@gmail.com) or the badges up top.
