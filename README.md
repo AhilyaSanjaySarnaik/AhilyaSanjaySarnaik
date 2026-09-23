@@ -103,21 +103,18 @@ building detection and defense tooling on real systems.
 ### 🐍 Contribution graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhilyaSanjaySarnaik/AhilyaSanjaySarnaik/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhilyaSanjaySarnaik/AhilyaSanjaySarnaik/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AhilyaSanjaySarnaik/AhilyaSanjaySarnaik/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhilyaSanjaySarnaik/AhilyaSanjaySarnaik/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhilyaSanjaySarnaik/AhilyaSanjaySarnaik/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AhilyaSanjaySarnaik/AhilyaSanjaySarnaik/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <!--
-  This embeds the SVG your snake.yml generates. Two things must match your workflow:
-    1. BRANCH: the URL uses the "output" branch. Open .github/workflows/snake.yml
-       and check where it pushes (the `push_branch` / target branch). Common
-       values are "output" or "gh-pages". Change /output/ above to match.
-    2. FILENAMES: the URL uses github-snake.svg and github-snake-dark.svg.
-       Check the `outputs:` section of snake.yml — some configs write
-       github-contribution-grid-snake.svg instead. Match these exactly.
-  The snake only appears AFTER the workflow runs once (it runs on a schedule or
-  you can trigger it manually from the Actions tab).
+  Filenames and branch now match your snake.yml (outputs -> dist/, target_branch: output).
+  NOTE: your workflow generates the snake for github_user_name: ahilyasavali12-prog,
+  so this graph shows THAT account's contributions — not AhilyaSanjaySarnaik's.
+  The stats card below shows AhilyaSanjaySarnaik. See the note under About re: the
+  two accounts; ideally both should point at the same one.
+  The snake appears only after the workflow runs once (Actions tab -> Run workflow).
 -->
 
 ---
