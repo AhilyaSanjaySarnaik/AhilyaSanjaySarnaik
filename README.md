@@ -146,19 +146,16 @@ I write about application security, AI/LLM security, and the tools I build.
   </a>
 </p>
 
-<!-- Live TryHackMe rank badge (official, auto-updates when your THM profile is public). -->
-<p>
-  <a href="https://tryhackme.com/p/Clover.Code">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Clover.Code.png" alt="TryHackMe rank badge" />
-  </a>
-</p>
-
 <!--
-  TryHackMe: two things above — a logo badge (always renders) and the live S3
-  rank badge (renders only when tryhackme.com/p/Clover.Code is public). If the
-  live one shows broken, your profile may be private; the logo badge still works.
-  Hack The Box: logo badge + link only. HTB has no official public stat image,
-  so embedding one would break — the badge links straight to your HTB profile.
+  Both are logo badges that always render and link to your profiles.
+  I removed the live TryHackMe S3 rank badge because it showed broken —
+  that happens when the THM profile is private OR the badge is keyed to your
+  numeric user ID rather than the name. To add the live badge back:
+    1. Make your THM profile public (Profile -> Public).
+    2. On your THM public profile page, copy the exact "badge" image URL it
+       gives you (it may look like tryhackme-badges.s3.amazonaws.com/<ID>.png).
+    3. Paste it back here inside an <img>. If it still 404s, the logo badge
+       above is the reliable fallback.
 -->
 
 ---
