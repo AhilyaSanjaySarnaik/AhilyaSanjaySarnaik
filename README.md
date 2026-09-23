@@ -46,6 +46,7 @@ My current research investigates adaptive aggregation for federated Network Intr
 | Project | What it does | Stack |
 | ------- | ------------ | ----- |
 | [**SupervisorGuard AI**](https://github.com/AhilyaSanjaySarnaik/supervisor-ai-chatbot) | Governance layer for AI agents. Every tool call passes a prompt-injection sanitizer, attribute-based access control, and human-in-the-loop approval for high-risk actions before reaching the real GitHub MCP server. | Python, FastAPI, MCP, Docker |
+| [**AWS Automated Threat Detection & Response**](https://github.com/AhilyaSanjaySarnaik/aws-detection-response) | Event-driven pipeline that detects and automatically reverses AWS attacks (exposed SSH, S3 backdoors, CloudTrail tampering) with least-privilege Lambda responders. Tested with Stratus Red Team: **every attack reversed in under 9 seconds**. | Terraform, AWS Lambda, EventBridge, Python |
 | [**Agentic Firewall & MCP Sanitizing Proxy**](https://github.com/AhilyaSanjaySarnaik/Sanitization_tool) | Multi-layer prompt-injection firewall (regex, heuristics, ML classifier, vector similarity), a scanner for hidden instructions and cross-tool poisoning in MCP tool lists and OpenAPI specs, and a proxy that hides malicious tools from the agent. | Python, Hugging Face, MCP |
 | [**Attack Surface Intelligence Platform**](https://github.com/AhilyaSanjaySarnaik/AI_Passive_Reccon_Plaform) | Local LLM workflow for passive recon, asset triage, and VAPT report drafting, protected by PII redaction and injection scoring, with a built-in red-team runner comparing baseline and protected behaviour. | Node.js, Ollama |
 | [**Adaptive Gated Aggregation for Federated NIDS**](https://github.com/AhilyaSanjaySarnaik/Adaptive-Gated-Aggregation-in-Federated-Learning-for-Network-Security) | Research on cosine-similarity gating of client updates to handle client drift in federated intrusion detection, evaluated against FedAvg, FedProx, FedAdam, and PerFedHypID. | Python, PyTorch |
@@ -157,6 +158,7 @@ Can organisations collaborate on intrusion detection without centralising raw ne
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
 </p>
 
 ---
@@ -166,7 +168,7 @@ Can organisations collaborate on intrusion detection without centralising raw ne
 * **Network security:** Wireshark traffic analysis, TCP/IP, ARP poisoning and MITM analysis, Cisco Packet Tracer labs
 * **Offensive practice:** TryHackMe and Hack The Box labs, OverTheWire Bandit, and my own CTF challenges
 * **Tooling:** a Python website enumeration CLI and passive recon automation
-* **Cloud:** AWS infrastructure hardening and incident response
+* **Cloud:** AWS infrastructure as code with Terraform, automated detection and response, infrastructure hardening, and incident response
 
 ---
 
