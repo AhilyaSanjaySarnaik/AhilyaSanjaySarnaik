@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ahilyasavali12-prog">
+  <a href="https://github.com/AhilyaSanjaySarnaik">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://ahilyasavali12-prog.github.io/ahilyasarnaik.github.io/">
+  <a href="https://ahilyasanjaysarnaik.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=00F7FF" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ahilyacyber">
@@ -32,33 +32,25 @@
 
 ## 🔐 About Me
 
-I am a **Cybersecurity Researcher** interested in applying machine learning and distributed computing to practical security problems.
+I'm a **cybersecurity researcher** working at the intersection of security and machine learning, in both directions:
 
-My current research focuses on **privacy-preserving Network Intrusion Detection Systems (NIDS)** using **Federated Learning**, with particular interest in anomaly detection, client heterogeneity, model aggregation, and network security.
+* **Securing AI systems** — building guardrails for LLM agents: prompt-injection detection, MCP tool-poisoning defence, and permission and approval controls for agent tool calls.
+* **Using AI for security** — privacy-preserving intrusion detection with **federated learning**, and ML-based phishing detection.
 
-I am especially interested in:
-
-* 🔐 Network Security & Intrusion Detection
-* 🤖 AI / Machine Learning for Cybersecurity
-* 🧠 Anomaly Detection
-* 🔄 Federated Learning
-* 🛡️ Privacy-Preserving Security
-* 📊 Security Analytics
-* 🔬 Cybersecurity Research & Experimentation
+My current research investigates adaptive aggregation for federated Network Intrusion Detection Systems (NIDS) under non-IID data.
 
 ---
 
-## 🔬 Research & Technical Focus
+## 🚀 Featured Projects
 
-| Area                   | Focus                                                  |
-| ---------------------- | ------------------------------------------------------ |
-| **Federated Learning** | Privacy-preserving collaborative model training        |
-| **Network Security**   | Network Intrusion Detection Systems                    |
-| **Anomaly Detection**  | Autoencoder-based detection of abnormal traffic        |
-| **AI Security**        | Machine learning applications in cybersecurity         |
-| **Model Aggregation**  | Adaptive aggregation under statistical heterogeneity   |
-| **Security Datasets**  | NSL-KDD and UNSW-NB15                                  |
-| **Evaluation**         | AUC-ROC, Macro F1, Detection Rate, FAR and convergence |
+| Project | What it does | Stack |
+| ------- | ------------ | ----- |
+| [**SupervisorGuard AI**](https://github.com/AhilyaSanjaySarnaik/supervisor-ai-chatbot) | Governance layer for AI agents. Every tool call passes a prompt-injection sanitizer, attribute-based access control, and human-in-the-loop approval for high-risk actions before reaching the real GitHub MCP server. | Python, FastAPI, MCP, Docker |
+| [**Agentic Firewall & MCP Sanitizing Proxy**](https://github.com/AhilyaSanjaySarnaik/Sanitization_tool) | Multi-layer prompt-injection firewall (regex, heuristics, ML classifier, vector similarity), a scanner for hidden instructions and cross-tool poisoning in MCP tool lists and OpenAPI specs, and a proxy that hides malicious tools from the agent. | Python, Hugging Face, MCP |
+| [**Attack Surface Intelligence Platform**](https://github.com/AhilyaSanjaySarnaik/AI_Passive_Reccon_Plaform) | Local LLM workflow for passive recon, asset triage, and VAPT report drafting, protected by PII redaction and injection scoring, with a built-in red-team runner comparing baseline and protected behaviour. | Node.js, Ollama |
+| [**Adaptive Gated Aggregation for Federated NIDS**](https://github.com/AhilyaSanjaySarnaik/Adaptive-Gated-Aggregation-in-Federated-Learning-for-Network-Security) | Research on cosine-similarity gating of client updates to handle client drift in federated intrusion detection, evaluated against FedAvg, FedProx, FedAdam, and PerFedHypID. | Python, PyTorch |
+| [**AI-Driven Phishing Classifier**](https://github.com/AhilyaSanjaySarnaik/AI-Driven-Phishing-Classifier) | Phishing detection pipeline covering data preparation, training, evaluation, explainability, and an API server. | Python, Jupyter |
+| [**AWS Secure Web Infrastructure & IR Lab**](https://github.com/AhilyaSanjaySarnaik/Cloud_Security_AWS-) | Hardened web infrastructure on AWS with an incident response exercise. | AWS |
 
 ---
 
@@ -66,48 +58,62 @@ I am especially interested in:
 
 ### Privacy-Preserving Federated NIDS
 
-My research investigates whether **Federated Learning** can improve privacy in collaborative network intrusion detection without requiring organisations to centralise raw network traffic.
+Can organisations collaborate on intrusion detection without centralising raw network traffic? Each client trains a local **autoencoder anomaly detector** on its own traffic and shares only model updates.
 
-The research uses locally trained **autoencoder anomaly detectors**, where clients train on their own network data and share model updates rather than raw traffic.
+**Adaptive Gated Aggregation** measures the **cosine similarity** between each client's update and the global model. Updates below a threshold **τ** are excluded; accepted updates are weighted by similarity. This targets **client drift and statistical heterogeneity** without auxiliary labelled data or differential-privacy noise.
 
-### Proposed Adaptive Aggregation
+| Evaluation | Details |
+| ---------- | ------- |
+| **Baselines** | FedAvg, FedProx, FedAdam, PerFedHypID |
+| **Datasets** | NSL-KDD, UNSW-NB15 |
+| **Data partitions** | IID, Non-IID Dirichlet α = 0.5 and α = 0.1 |
+| **Metrics** | AUC-ROC, Macro F1, Detection Rate, False Alarm Rate, convergence rounds |
+| **Statistics** | Welch's t-test, Cohen's d |
 
-The proposed approach uses **cosine similarity** to measure the geometric alignment between a client's model update and the current global model.
+<!-- Once results are final, add one line here, e.g.:
+**Result:** Under α = 0.1 on UNSW-NB15, adaptive aggregation improved Macro F1 from X to Y over FedAvg (p < 0.05). -->
 
-Clients whose updates fall below a similarity threshold **τ** are excluded from aggregation, while accepted updates receive weights proportional to their similarity.
+**Next:** evaluating the gating mechanism's robustness against malicious clients (model poisoning and backdoor attacks).
 
-The approach is designed to address **client drift and statistical heterogeneity** while avoiding the need for auxiliary labelled data or differential-privacy noise.
+---
 
-### Experimental Evaluation
+## 💻 Research Environment
 
-The current evaluation compares:
-
-* **FedAvg**
-* **FedProx**
-* **FedAdam**
-* **Adaptive Aggregation**
-* **PerFedHypID**
-
-Across:
-
-* IID data
-* Non-IID α = 0.5
-* Non-IID α = 0.1
-
-Using:
-
-* **NSL-KDD**
-* **UNSW-NB15**
-
-Evaluation metrics include:
-
-* AUC-ROC
-* Macro F1
-* Detection Rate (DR)
-* False Alarm Rate (FAR)
-* Convergence rounds
-* Welch's t-test
-* Cohen's d
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                 CYBERSECURITY RESEARCH LAB                  │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  Network Traffic                                            │
+│       │                                                     │
+│       ▼                                                     │
+│  ┌─────────────────┐                                        │
+│  │ Data Processing │                                        │
+│  └────────┬────────┘                                        │
+│           │                                                 │
+│           ▼                                                 │
+│  ┌───────────────────┐                                      │
+│  │ Local Autoencoder │                                      │
+│  │ Anomaly Detector  │                                      │
+│  └─────────┬─────────┘                                      │
+│            │                                                │
+│            ▼                                                │
+│     Federated Learning                                      │
+│            │                                                │
+│            ▼                                                │
+│  ┌──────────────────────┐                                   │
+│  │ Adaptive Aggregation │                                   │
+│  │ Cosine Similarity    │                                   │
+│  └──────────┬───────────┘                                   │
+│             │                                               │
+│             ▼                                               │
+│       Global Model                                          │
+│             │                                               │
+│             ▼                                               │
+│     NIDS Evaluation                                         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -133,6 +139,16 @@ Evaluation metrics include:
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
+### AI Security & LLM Tooling
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Model%20Context%20Protocol-0D1117?style=for-the-badge&logo=anthropic&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
 ### Development & Infrastructure
 
 <p>
@@ -147,58 +163,10 @@ Evaluation metrics include:
 
 ## 🧪 Hands-On Cybersecurity
 
-I regularly work with practical cybersecurity concepts including:
-
-* Network traffic analysis
-* Wireshark packet analysis
-* TCP/IP and network protocols
-* ARP poisoning and MITM analysis
-* Vulnerability assessment
-* SIEM and security monitoring
-* Incident response
-* Digital forensics
-* Threat intelligence
-* Linux security environments
-* Cybersecurity labs and CTF platforms
-
----
-
-## 💻 Research Environment
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                 CYBERSECURITY RESEARCH LAB                  │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Network Traffic                                            │
-│       │                                                     │
-│       ▼                                                     │
-│  ┌───────────────┐                                          │
-│  │ Data Processing│                                         │
-│  └───────┬───────┘                                          │
-│          │                                                  │
-│          ▼                                                  │
-│  ┌───────────────────┐                                      │
-│  │ Local Autoencoder │                                      │
-│  │ Anomaly Detector  │                                      │
-│  └─────────┬─────────┘                                      │
-│            │                                                │
-│            ▼                                                │
-│     Federated Learning                                      │                                                           │
-│            ▼                                                │
-│  ┌─────────────────────┐                                    │
-│  │ Adaptive Aggregation │                                   │
-│  │ Cosine Similarity    │                                   │
-│  └──────────┬──────────┘                                    │
-│             │                                               │
-│             ▼                                               │
-│       Global Model                                          │
-│             │                                               │
-│             ▼                                               │
-│     NIDS Evaluation                                         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+* **Network security:** Wireshark traffic analysis, TCP/IP, ARP poisoning and MITM analysis, Cisco Packet Tracer labs
+* **Offensive practice:** TryHackMe and Hack The Box labs, OverTheWire Bandit, and my own CTF challenges
+* **Tooling:** a Python website enumeration CLI and passive recon automation
+* **Cloud:** AWS infrastructure hardening and incident response
 
 ---
 
@@ -206,7 +174,7 @@ I regularly work with practical cybersecurity concepts including:
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahilyasavali12-prog&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhilyaSanjaySarnaik&theme=github_dark"
     alt="GitHub Profile Summary"
     width="100%"
   />
@@ -214,12 +182,12 @@ I regularly work with practical cybersecurity concepts including:
 
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahilyasavali12-prog&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhilyaSanjaySarnaik&theme=github_dark"
     alt="Repositories per Language"
     width="48%"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahilyasavali12-prog&theme=github_dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AhilyaSanjaySarnaik&theme=github_dark"
     alt="Most Commit Language"
     width="48%"
   />
@@ -231,7 +199,7 @@ I regularly work with practical cybersecurity concepts including:
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ahilyasavali12-prog/Ahilya-Sarnaik/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/AhilyaSanjaySarnaik/AhilyaSanjaySarnaik/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
@@ -241,7 +209,7 @@ I regularly work with practical cybersecurity concepts including:
 
 ## ✍️ Cybersecurity Writing
 
-I write about cybersecurity, security research, networking, and practical security concepts.
+I write about cybersecurity, AI security, networking, and practical security concepts.
 
 <p>
   <a href="https://medium.com/@ahilya_Cyber">
@@ -254,14 +222,14 @@ I write about cybersecurity, security research, networking, and practical securi
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://ahilyasavali12-prog.github.io/ahilyasarnaik.github.io/">
+  <a href="https://ahilyasanjaysarnaik.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Ahilya%20Sarnaik-000000?style=for-the-badge&logo=firefox&logoColor=00F7FF" alt="Portfolio Website" />
   </a>
   <a href="https://www.linkedin.com/in/ahilyacyber">
     <img src="https://img.shields.io/badge/LinkedIn-Ahilya%20Sarnaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/ahilyasavali12-prog">
-    <img src="https://img.shields.io/badge/GitHub-ahilyasavali12--prog-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/AhilyaSanjaySarnaik">
+    <img src="https://img.shields.io/badge/GitHub-AhilyaSanjaySarnaik-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://x.com/Ahi_Cyber">
     <img src="https://img.shields.io/badge/X-@Ahi__Cyber-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
@@ -283,10 +251,9 @@ I write about cybersecurity, security research, networking, and practical securi
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahilyasavali12-prog&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AhilyaSanjaySarnaik&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   <i>Cybersecurity Research • AI Security • Network Defense • Privacy-Preserving ML</i>
 </p>
-
