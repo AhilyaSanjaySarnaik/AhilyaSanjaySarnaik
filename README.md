@@ -18,19 +18,14 @@
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ahilya.savali12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ahilyasanjaysarnaik.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="Hack The Box" /></a>
+  <a href="https://medium.com/@ahilya_Cyber"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://tryhackme.com/p/Clover.Code"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <a href="https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="Hack The Box" /></a>
 </p>
 
 <!--
-  Fill in the real links, then delete any badge you don't use (a badge that
-  links to "#" looks unfinished to a recruiter — better to remove than leave dead):
-    LinkedIn     -> your LinkedIn profile URL
-    Medium       -> https://medium.com/@your-handle
-    TryHackMe    -> https://tryhackme.com/p/your-username
-    Hack The Box -> https://app.hackthebox.com/profile/your-id
-  Email + portfolio are already wired from your public profile.
+  LinkedIn is still a "#" placeholder — add your real LinkedIn URL or delete that badge.
+  Email + portfolio are wired from your public profile. Medium / TryHackMe / HTB are set.
 -->
 
 ---
@@ -130,17 +125,34 @@ building detection and defense tooling on real systems.
 
 I write about application security, AI/LLM security, and the tools I build.
 
-<!--
-  Add links to your real posts once published, e.g.:
-  - [Neutralizing XSS & SQLi at the input layer](https://medium.com/@your-handle/...)
-  - [Detecting prompt injection against LLMs](https://medium.com/@your-handle/...)
+📝 Read my posts on [Medium — @ahilya_Cyber](https://medium.com/@ahilya_Cyber)
 
-  If you don't have posts yet, either write one short walkthrough of a project
-  above (great signal for security roles) or delete this whole section for now —
-  an empty "Writing" heading reads worse than no heading.
+<!--
+  Optional: auto-embed your latest Medium posts using the blog-post-workflow
+  GitHub Action (gautamkrishnar/blog-post-workflow). It replaces a marker in
+  this README with your newest article titles on a schedule. Ask me to set it up.
 -->
 
-- 📝 Latest posts on [Medium](#)  <!-- replace # with https://medium.com/@your-handle -->
+---
+
+### 🧪 Hands-on security
+
+<p>
+  <a href="https://tryhackme.com/p/Clover.Code">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Clover.Code.png" alt="TryHackMe badge" />
+  </a>
+</p>
+
+<sub>
+  🟩 Hack The Box:
+  <a href="https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34">view my HTB profile</a>
+  &nbsp;·&nbsp; 🔴 TryHackMe: <a href="https://tryhackme.com/p/Clover.Code">Clover.Code</a>
+</sub>
+
+<!--
+  The TryHackMe badge image above auto-updates with your rank/rooms once your
+  THM profile is public. HTB has no official public badge image, so it's a link.
+-->
 
 ---
 
