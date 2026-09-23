@@ -139,19 +139,26 @@ I write about application security, AI/LLM security, and the tools I build.
 
 <p>
   <a href="https://tryhackme.com/p/Clover.Code">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Clover.Code.png" alt="TryHackMe badge" />
+    <img src="https://img.shields.io/badge/TryHackMe-Clover.Code-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe profile" />
+  </a>
+  <a href="https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box profile" />
   </a>
 </p>
 
-<sub>
-  🟩 Hack The Box:
-  <a href="https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34">view my HTB profile</a>
-  &nbsp;·&nbsp; 🔴 TryHackMe: <a href="https://tryhackme.com/p/Clover.Code">Clover.Code</a>
-</sub>
+<!-- Live TryHackMe rank badge (official, auto-updates when your THM profile is public). -->
+<p>
+  <a href="https://tryhackme.com/p/Clover.Code">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Clover.Code.png" alt="TryHackMe rank badge" />
+  </a>
+</p>
 
 <!--
-  The TryHackMe badge image above auto-updates with your rank/rooms once your
-  THM profile is public. HTB has no official public badge image, so it's a link.
+  TryHackMe: two things above — a logo badge (always renders) and the live S3
+  rank badge (renders only when tryhackme.com/p/Clover.Code is public). If the
+  live one shows broken, your profile may be private; the logo badge still works.
+  Hack The Box: logo badge + link only. HTB has no official public stat image,
+  so embedding one would break — the badge links straight to your HTB profile.
 -->
 
 ---
