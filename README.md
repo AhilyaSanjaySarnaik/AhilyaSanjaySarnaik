@@ -122,11 +122,14 @@ building detection and defense tooling on real systems.
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhilyaSanjaySarnaik&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhilyaSanjaySarnaik&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://readme-stats.itsvg.in/api?username=AhilyaSanjaySarnaik&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://readme-stats.itsvg.in/api/top-langs/?username=AhilyaSanjaySarnaik&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
 </p>
 
 <!--
-  Stats cards use username AhilyaSanjaySarnaik. If your main repos are on a
-  different account, change the username= value in both URLs to match.
+  Using the community mirror readme-stats.itsvg.in instead of the official
+  github-readme-stats.vercel.app, which is chronically rate-limited. This mirror
+  is a STOPGAP — it can also rate-limit or go offline. The durable fix is your
+  own Vercel instance (fork anuraghazra/github-readme-stats, deploy with a PAT).
+  If your main repos are on a different account, change username= in both URLs.
 -->
