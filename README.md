@@ -1,105 +1,106 @@
 <!-- Banner: animated typing headline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Security+%26+Cybersecurity+Graduate;Input+Sanitization+%7C+Threat+Detection+%7C+Recon;Python+Security+Tooling+%7C+ML+for+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=6FD1B0&center=true&vCenter=true&width=720&lines=MSc+Cybersecurity+%7C+SOC%2C+Cloud+%26+AI+Security;Securing+AI+agents+and+the+clouds+they+run+in;AWS+Detection+%26+Response+%7C+LLM+Guardrails+%7C+MCP+Security" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Ahilya Sarnaik</h1>
 
 <p align="center">
-  Cybersecurity &amp; AI security graduate — building Python security tools,
+  MSc Cybersecurity candidate at National College of Ireland, graduating Oct 2026.
   <br />
-  ML-based threat detection, and application-defense tooling.
+  Securing cloud infrastructure, modern SOC workflows, and the AI agents running inside them.
   <br />
-  📍 Dublin, Ireland
+  📍 Dublin, Ireland · 🟢 Open to full-time roles in Ireland and freelance work
 </p>
 
-<!-- Social badges -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ahilya.savali12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://ahilyasanjaysarnaik.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=flat&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://ahilyasanjaysarnaik.github.io/"><img src="https://img.shields.io/badge/Portfolio-6FD1B0?style=flat&logo=githubpages&logoColor=0B1219" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ahilyacyber"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ahilyasarnaik12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://medium.com/@ahilya_Cyber"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://tryhackme.com/p/Clover.Code"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
-  <a href="https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34"><img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="Hack The Box" /></a>
+  <a href="https://x.com/Ahi_Cyber"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://tryhackme.com/p/Clover.Code"><img src="https://img.shields.io/badge/TryHackMe-Top%203%25-212C42?style=flat&logo=tryhackme&logoColor=white" alt="TryHackMe Top 3%" /></a>
 </p>
-
-<!--
-  LinkedIn is still a "#" placeholder — add your real LinkedIn URL or delete that badge.
-  Email + portfolio are wired from your public profile. Medium / TryHackMe / HTB are set.
--->
 
 ---
 
 ### 👋 About
 
-I'm a **cybersecurity and AI security graduate** focused on the defensive side of
-application and AI systems. I build practical Python security tooling — input
-sanitizers, payload classifiers, recon scanners, and auth hardening — and I'm
-increasingly working where **machine learning meets security**: classifying
-malicious input, detecting prompt-injection against LLMs, and scoring risk.
+I bridge **SOC threat detection** with **AI security research**. My work spans automated AWS threat response, securing LLM agent tool calls against prompt injection and tool poisoning, and auditing Hugging Face models for supply-chain risks.
 
-I'm targeting **AI security and cybersecurity graduate roles** where I can keep
-building detection and defense tooling on real systems.
-
----
-
-### 🧰 Skills & Tools
-
-**Security**
-<p>
-  <img src="https://img.shields.io/badge/Application%20Security-6E5494?style=flat&logo=owasp&logoColor=white" alt="AppSec" />
-  <img src="https://img.shields.io/badge/XSS%20%2F%20SQLi%20Defense-CB3837?style=flat&logo=owasp&logoColor=white" alt="XSS/SQLi Defense" />
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=portswigger&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-</p>
-
-**AI / ML for Security**
-<p>
-  <img src="https://img.shields.io/badge/LLM%20Security-412991?style=flat&logo=openai&logoColor=white" alt="LLM Security" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Prompt%20Injection%20Defense-000000?style=flat&logo=openai&logoColor=white" alt="Prompt Injection Defense" />
-</p>
-
-**Languages & Platforms**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-</p>
+- 🎓 MSc Cybersecurity, National College of Ireland (Sep 2025 – Oct 2026)
+- 🔍 7 months as a Cyber Forensic Intern at Excellent Cyber: logs, disk images, endpoint telemetry
+- 🚩 Top 3% on TryHackMe, 40+ rooms across networking, web, Windows, SOC and AI security
+- 🧠 BTech in Computer Science (AI and ML), KIT's College of Engineering
 
 ---
 
 ### 📌 Featured projects
 
-> Repo links use relative paths so they resolve on whichever account hosts this
-> profile. If your project repos live on a different account, replace the links
-> with the full `https://github.com/<account>/<repo>` URL.
+| Project | What it does | Result |
+|---|---|---|
+| ☁️ **[AWS Automated Threat Detection & Response](https://github.com/AhilyaSanjaySarnaik/aws-detection-response)** | Event-driven pipeline (CloudTrail, GuardDuty, EventBridge, Lambda, Terraform) that detects and reverses AWS attacks, validated with Stratus Red Team | Attacks reversed in **4.5–8.5 s** |
+| 🤖 **[SupervisorGuard AI](https://github.com/AhilyaSanjaySarnaik/supervisor-ai-chatbot)** | Security layer between AI agents and the GitHub MCP server: auth, injection screening, ABAC and human approval for destructive actions | **4 attack types** blocked |
+| 🧱 **[Agentic Firewall & MCP Tool Sanitizer](https://github.com/AhilyaSanjaySarnaik/Sanitization_tool)** | Four-layer prompt screening (rules, heuristic, DeBERTa, vector match) plus a proxy that hides poisoned MCP tools | Claude Code plugin, **100% local** |
+| 🧪 **[Adaptive Federated Intrusion Detection](https://github.com/AhilyaSanjaySarnaik/Adaptive-Gated-Aggregation-in-Federated-Learning-for-Network-Security)** | MSc research: gradient-similarity aggregation for federated IDS on skewed data (NSL-KDD, UNSW-NB15) | F1 **0.68 → 0.81** vs FedAvg |
+| 📡 **[AI Attack Surface Intelligence Platform](https://github.com/AhilyaSanjaySarnaik/AI_Passive_Reccon_Plaform)** | Passive recon, local-LLM asset triage (P1–P4) and VAPT report drafting, with PII redaction and a red-team suite | **12** built-in attack payloads |
+| 🎣 **[Phishing Email Classifier](https://github.com/AhilyaSanjaySarnaik/AI-Driven-Phishing-Classifier)** | Fine-tuned BERT model served through a REST API, with explainability | **0.3%** false positives |
 
-- **Input Data Sanitizer — XSS / SQLi Prevention**
-  Security middleware that neutralizes malicious input before it hits the DB or
-  DOM: HTML entity encoding, script-tag stripping, SQLi syntax checks, and
-  regex-based payload inspection. `Python` · `JS` · OWASP Top 10.
+🔗 **Architecture diagrams, case studies and live demos:** [ahilyasanjaysarnaik.github.io](https://ahilyasanjaysarnaik.github.io/)
+🧪 **Try to break an AI agent or scan a prompt:** [AI Security Lab](https://ahilyasanjaysarnaik.github.io/ai-lab.html)
 
-- **AI-Powered Threat & Vulnerability Detector**
-  ML/LLM auditor that classifies malicious payloads, flags prompt-injection
-  attempts, scans code for vulnerabilities, and produces risk scores with
-  mitigation notes. `Python` · `scikit-learn` · NLP.
+---
 
-- **Automated Network Port & CVE Scanner**
-  Async Python socket scanner for concurrent multi-host recon — banner grabbing,
-  open-port detection, and mapping services to known CVEs. `Python` · `asyncio`.
-  <br /><sub>⚠️ Use only against systems you own or are authorized to test.</sub>
+### 🧰 Skills & tools
 
-- **Zero-Trust Auth & Key Exchange**
-  Backend auth hardening: PyJWT validation, Bcrypt hashing, brute-force
-  rate-limiting, and encrypted key exchange. `Python` · `Flask` · `Bcrypt` · `PyJWT`.
+**SOC & detection**
+<p>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Sysmon-0078D4?style=flat" alt="Sysmon" />
+  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-C8102E?style=flat" alt="MITRE ATT&CK" />
+  <img src="https://img.shields.io/badge/Sigma%20Rules-4B5563?style=flat" alt="Sigma" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Digital%20Forensics-374151?style=flat" alt="Digital Forensics" />
+</p>
 
-🔗 **Live portfolio & interactive demos:** [ahilyasanjaysarnaik.github.io](https://ahilyasanjaysarnaik.github.io/)
+**Cloud & infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Cisco%20Networking-1BA0D7?style=flat&logo=cisco&logoColor=white" alt="Cisco" />
+</p>
+
+**AI & agent security**
+<p>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Prompt%20Injection%20Defense-6FD1B0?style=flat" alt="Prompt Injection Defense" />
+  <img src="https://img.shields.io/badge/MCP%20Security-A99BF5?style=flat" alt="MCP Security" />
+  <img src="https://img.shields.io/badge/OWASP%20Top%2010%20for%20LLMs-000000?style=flat&logo=owasp&logoColor=white" alt="OWASP LLM Top 10" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" alt="PyTorch" />
+</p>
+
+**Offensive security & engineering**
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+---
+
+### 📜 Certifications
+
+- **ISO/IEC 27001 Information Security Associate**, SkillFront (Feb 2026)
+- **CompTIA Security+**, in progress, exam coming soon
+- **AWS Academy Graduate**: Cloud Foundations and Machine Learning Foundations (Jan 2024)
+- **Cyber Security Management Job Simulation**, ANZ Australia via Forage (Apr 2024)
+- **Machine Learning Certification**, Techfest, IIT Bombay (Dec 2022)
 
 ---
 
@@ -121,47 +122,14 @@ building detection and defense tooling on real systems.
 
 ---
 
-### ✍️ Writing
+### ✍️ Writing & community
 
-I write about application security, AI/LLM security, and the tools I build.
-
-📝 Read my posts on [Medium — @ahilya_Cyber](https://medium.com/@ahilya_Cyber)
-
-<!--
-  Optional: auto-embed your latest Medium posts using the blog-post-workflow
-  GitHub Action (gautamkrishnar/blog-post-workflow). It replaces a marker in
-  this README with your newest article titles on a schedule. Ask me to set it up.
--->
-
----
-
-### 🧪 Hands-on security
-
-<p>
-  <a href="https://tryhackme.com/p/Clover.Code">
-    <img src="https://img.shields.io/badge/TryHackMe-Clover.Code-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe profile" />
-  </a>
-  <a href="https://profile.hackthebox.com/profile/01a0bed0-1061-72bf-98a1-2bd43baada34">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Hack The Box profile" />
-  </a>
-</p>
-
-<!--
-  Both are logo badges that always render and link to your profiles.
-  I removed the live TryHackMe S3 rank badge because it showed broken —
-  that happens when the THM profile is private OR the badge is keyed to your
-  numeric user ID rather than the name. To add the live badge back:
-    1. Make your THM profile public (Profile -> Public).
-    2. On your THM public profile page, copy the exact "badge" image URL it
-       gives you (it may look like tryhackme-badges.s3.amazonaws.com/<ID>.png).
-    3. Paste it back here inside an <img>. If it still 404s, the logo badge
-       above is the reliable fallback.
--->
+- 📝 Technical breakdowns on AWS security, AI agent guardrails and SOC monitoring on [Medium (@ahilya_Cyber)](https://medium.com/@ahilya_Cyber)
+- 🚩 Room write-ups in [THM-ROOMS](https://github.com/AhilyaSanjaySarnaik/THM-ROOMS)
+- 💬 Discussing AI red teaming and cloud security on [X (@Ahi_Cyber)](https://x.com/Ahi_Cyber) and [Reddit (u/Dramatic_cyber_917)](https://www.reddit.com/user/Dramatic_cyber_917)
 
 ---
 
 ### 🤝 Let's connect
 
-I'm open to **AI security and cybersecurity graduate roles**, internships, and
-collaboration on security tooling. Reach me via
-[email](mailto:ahilya.savali12@gmail.com) or the badges up top.
+I'm open to **SOC, cloud security and AI security roles in Ireland**, and select freelance security engagements. Reach me at [ahilyasarnaik12@gmail.com](mailto:ahilyasarnaik12@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/ahilyacyber).
